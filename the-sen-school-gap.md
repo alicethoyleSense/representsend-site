@@ -4,54 +4,50 @@ title: The SEN School Gap
 permalink: /the-sen-school-gap.html
 ---
 
-<section class="content">
-  <div class="wrap">
+## The ‘Specialist Secondary School’ Education Gap in Bath and surrounding areas
 
-# The Specialist Secondary School Gap
+## The Gap in Specialist Provision for 'SENbetweeners'
 
-## The gap in specialist provision for SENbetweeners
+From surveying our families, we found there was a particular need for educational options for SEND children whose needs are not being recognised or met in mainstream.
 
-From surveying our families, we found there was a particular need for educational options for SEND children whose needs are not being recognised or met in mainstream. These children are often unlikely to qualify for existing, oversubscribed specialist provision.
+Such children are often unlikely to qualify for the existing oversubscribed specialist provision. Broadly these are children who present with a wide range of Specific Learning Difficulties (SpLD). Many of these children are also neurodivergent with multiple diagnoses, including ADHD, Autism Spectrum Conditions, dyslexia, dyscalculia, dyspraxia, sensory processing, working memory and processing issues. These needs increase the complexity of accessing the curriculum. Many of the children have Education, Health and Care Plans (EHCPs).
 
-Broadly, these are children who present with a wide range of Specific Learning Difficulties (SpLD). Many are also neurodivergent with multiple diagnoses, including ADHD, Autism Spectrum Conditions, Dyslexia, Dyscalculia, Dyspraxia, Sensory Processing, Working Memory and Processing issues. These needs increase the complexity of accessing the curriculum.
+We identified that mainstream schools were struggling to meet the needs of this cohort of students. There is also a local lack of specialist provision for this group of children. Bath & NES does not have an independent specialist school. There is no dyslexia specialist school and no provision exists for children with ADHD. Whilst there are a range of autistic specialist schooling options locally, both mainstream and private, these are hugely oversubscribed.
 
-Many of the children have Education, Health and Care Plans (EHCPs).
+## What are the current secondary options for SEN school children in Bath & NES?
 
-We identified that mainstream schools were struggling to meet the needs of this cohort. There is also a local lack of specialist provision for this group. Bath &amp; NES does not have an independent specialist school. There is no dyslexia specialist school and no provision exists for children with ADHD. While there are autistic specialist schooling options locally, both mainstream and private, they are hugely oversubscribed.
+## Local Authority funded Mainstream
 
-## Current secondary options locally
+These settings are oversubscribed and underfunded, placing enormous strain on the existing provision. For many children the provision does not meet need. Many of our children have particular sensory issues and learning needs.
 
-### Local Authority funded mainstream
+These children often need to be taught in small class sizes by specialist teachers and some children require additional 1:1 support to help them secure the foundations of a KS2 curriculum before they can access the KS3/4 curriculum. Where a child's academic level is so far behind age related expectations, bullying and mental health issues become all too common.
 
-These settings are oversubscribed and underfunded, placing enormous strain on existing provision. For many children, the provision does not meet need.
+---
 
-Many of our children have sensory issues and learning needs. Some need small class sizes, specialist teachers, and additional 1:1 support to secure KS2 foundations before accessing the KS3/4 curriculum. Where a child's academic level is far behind age-related expectations, bullying and mental health issues become all too common.
+## Local Authority Funded Specialist Schools
 
-### Local Authority funded specialist schools
-
-Our children often do not meet thresholds for local authority special schools. These schools are hugely oversubscribed and provision is often for the most severe cases, or for children who have been excluded from mainstream, or cannot attend mainstream due to social, emotional and mental health needs.
+Our children do not meet thresholds for local authority special schools. These are hugely oversubscribed and provision is often for the most severe cases, or for children who have been excluded from mainstream, or cannot attend mainstream due to their social, emotional and mental health needs.
 
 Local authorities do not fund dyslexia or ADHD specialist secondary schools that could meet our children's needs.
 
-### Independent mainstream
+## Independent Mainstream
 
-The mainstream private senior schools in Bath and the surrounding area have very limited SEN places. Provision is often unable to fully meet need and these schools are intensely oversubscribed by SEN applicants.
+The mainstream private senior schools in Bath and the surrounding area have a very limited number of SEN places. The provision is often considered unable to fully meet need and these schools are intensely oversubscribed by SEN applicants. Additionally, children are often barred from entry if they have an EHCP.
 
-Children may also be barred from entry if they have an EHCP. Smaller class sizes can help, but many children would not pass entrance exams for selective independent schools. Without specialist teaching, lessons and learning are likely to be too fast-paced. Affordability is also a major issue unless places are funded by the Local Authority as an EHCP named school.
+These schools can meet some needs due to the smaller class sizes, however many of our children would not pass entrance exams for selective independent schools and without specialist teaching, lessons and learning would likely be too fast paced. Affordability is also an issue for many parents unless places are funded by the Local Authority as an EHCP named school.
 
-### South West independent specialist provision
+---
 
-There are some specialist senior schools in the South West, but they are not easily accessible to families living in Bath &amp; NES without long journeys. Distance is prohibitive for many families. Some specialist senior schools outside Bath &amp; NES also do not offer a full breadth of curriculum due to lack of facilities.
+## South West Independent Specialist
 
-## Why an independent sector focus?
+There are currently some specialist senior schools in the South West of England, but they are not easily accessible to families living in Bath & NES without long journeys. The distance is prohibitive for many families. Additionally, many of the specialist senior schools located outside B&NES do not always offer a full breadth curriculum due to lack of facilities.
 
-RepreSENt decided to focus energy on establishing new independent specialist provision.
+RepreSENt have decided to focus our energies on establishing a new independent specialist provision.
 
-We chose this because there are already organisations improving and challenging local authority funded SEND provision, including the BANES Parent Carer Forum, who we work closely with. Rather than duplicating or diluting campaigning efforts, we focused on the lack of SEND provision in the independent sector.
+## Why the Initial Independent Sector Focus?
 
-We believe this gives the campaign the best chance of success because the independent sector can be mobilised in shorter timescales than the local authority. Our intention is that children with EHCPs would also be able to access this provision with places funded by the local authority.
+We chose initially to focus on the independent sector because we feel that there already are lots of organisations improving and challenging local authority funded provision for SEND. One such organisation is the [BANES Parent Carer Forum](https://banespcf.co.uk/) who we work closely with.
 
-It is clear from our research that there is a huge need for innovative education options for neurodivergent children with learning needs in Bath &amp; NES.
+Rather than duplicating and diluting campaigning efforts, we decided to specifically focus on the lack of SEND provision in the independent sector. We believe this gives our campaign the best chance of success, because the independent sector can be mobilised in shorter timescales than the local authority. Our intention is that children with EHCPs would also be able to access this provision with places funded by the local authority.
 
-  </div>
-</section>
+It is evident from our research that there is a huge need to provide innovative education options for neurodivergent children with learning needs in Bath & NES. Our cohort of parents is building and is therefore able to support the growth of such a specialist SEN school in the Bath area.

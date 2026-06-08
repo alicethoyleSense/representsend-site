@@ -4,29 +4,10 @@ title: Contact Us
 permalink: /contact-us.html
 ---
 
-<section class="content">
-  <div class="wrap">
+## Please fill in the form below to contact us.
 
-# Contact Us
+This static version needs either a Google Form embed, Formspree form, or a simple email link.
 
-Want to get involved, ask a question, share a resource, or talk to us about SEND provision locally?
+For now, contact us at [represent.send.bath@gmail.com](mailto:represent.send.bath@gmail.com).
 
-<div class="card">
-  <h2>Email</h2>
-  <p><a href="mailto:REPLACE_WITH_MAIN_EMAIL@example.com">REPLACE_WITH_MAIN_EMAIL@example.com</a></p>
-</div>
-
-## Useful reasons to contact us
-
-- You are a parent or carer looking for local signposting.
-- You want to get involved with the campaign.
-- You work in education and want to talk about SEND provision.
-- You know of premises that might be suitable for specialist provision.
-- You have a resource that might help neurodivergent children and families locally.
-
-<div class="callout">
-Optional upgrade: replace this page with a Google Form embed, Formspree form, or other static-site-friendly contact form.
-</div>
-
-  </div>
-</section>
+* Indicates required field

@@ -4,7 +4,8 @@ description: Parent-led campaign for better SEND provision in Bath and North Eas
 url: "https://alicethoylesense.github.io"
 baseurl: "/representsend-site"
 markdown: kramdown
-permalink: pretty
+kramdown:
+  input: GFM
 plugins: []
 exclude:
   - README.md

@@ -9,36 +9,38 @@
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
+
   <header class="site-header">
-    <div class="wrap header-grid">
+    <div class="wrap">
       <a class="brand" href="{{ '/' | relative_url }}" aria-label="RepreSENt home">
         <span class="brand-main">RepreSENt</span>
         <span class="brand-sub">SEND in Bath &amp; NES</span>
       </a>
-      <nav aria-label="Main navigation">
-        <a href="{{ '/about-represent.html' | relative_url }}">About</a>
+      <nav class="main-nav" aria-label="Main navigation">
+        <a href="{{ '/about-represent.html' | relative_url }}">About RepreSENt</a>
         <a href="{{ '/the-sen-school-gap.html' | relative_url }}">The SEN School Gap</a>
         <a href="{{ '/founders.html' | relative_url }}">Founders</a>
         <a href="{{ '/represent-girls.html' | relative_url }}">RepreSENt Girls</a>
-        <a href="{{ '/useful-resources.html' | relative_url }}">Resources</a>
-        <a class="nav-cta" href="{{ '/contact-us.html' | relative_url }}">Contact</a>
+        <a href="{{ '/useful-resources.html' | relative_url }}">Useful Resources</a>
+        <a href="{{ '/contact-us.html' | relative_url }}">Contact Us</a>
       </nav>
     </div>
   </header>
 
-  <main id="main">
-    {{ content }}
+  <main id="main" class="page-content">
+    <div class="wrap prose">
+      {{ content }}
+    </div>
   </main>
 
   <footer class="site-footer">
-    <div class="wrap footer-grid">
-      <div>
-        <strong>RepreSENt</strong><br>
-        RepreSENting SEND in Bath &amp; NES.
-      </div>
-      <div>
-        <a href="{{ '/contact-us.html' | relative_url }}">Contact us</a>
-      </div>
+    <div class="wrap footer-nav">
+      <a href="{{ '/about-represent.html' | relative_url }}">About RepreSENt</a>
+      <a href="{{ '/the-sen-school-gap.html' | relative_url }}">The SEN School Gap</a>
+      <a href="{{ '/founders.html' | relative_url }}">Founders</a>
+      <a href="{{ '/represent-girls.html' | relative_url }}">RepreSENt Girls</a>
+      <a href="{{ '/useful-resources.html' | relative_url }}">Useful Resources</a>
+      <a href="{{ '/contact-us.html' | relative_url }}">Contact Us</a>
     </div>
   </footer>
 </body>
