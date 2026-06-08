@@ -1,8 +1,8 @@
 title: RepreSENt
 subtitle: RepreSENting SEND in Bath & NES
 description: Parent-led campaign for better SEND provision in Bath and North East Somerset and neighbouring authorities.
-url: "https://www.representsend.co.uk"
-baseurl: ""
+url: "https://alicethoylesense.github.io"
+baseurl: "/representsend-site"
 markdown: kramdown
 permalink: pretty
 plugins: []
