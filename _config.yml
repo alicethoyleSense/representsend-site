@@ -1,0 +1,12 @@
+title: RepreSENt
+subtitle: RepreSENting SEND in Bath & NES
+description: Parent-led campaign for better SEND provision in Bath and North East Somerset and neighbouring authorities.
+url: "https://www.representsend.co.uk"
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+plugins: []
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
